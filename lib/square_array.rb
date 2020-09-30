@@ -3,9 +3,8 @@ def square_array(array)
     new_array=[]
     #array=array.length*2 
     new_array.push(array.length*2)
-    array.length+=1
+    
     
   end  
-  return new_array
   new_array
 end
