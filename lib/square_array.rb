@@ -6,6 +6,6 @@ def square_array(array)
     array+=1
     
   end  
-  return 
+  return new_array
   new_array
 end
