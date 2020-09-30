@@ -1,5 +1,5 @@
 def square_array(array)
-  while true do
+  while array.length do
     new_array=[]
     array=array.length*2 
     new_array.push(array)
